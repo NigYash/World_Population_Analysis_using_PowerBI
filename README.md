@@ -19,3 +19,7 @@ This repository contains a Power BI project that creates a dashboard for world p
 
 - **Table: Country, Sum of Land Area (Km²), Sum of Population (2023), Sum of Yearly Change, Sum of Migrants (net)**
   - A tabular view of data that includes columns for Country, Sum of Land Area (Km²), Sum of Population (2023), Sum of Yearly Change, and Sum of Migrants (net).
+
+
+![image](https://github.com/NigYash/World_Population_Analysis_using_PowerBI/assets/125470058/8bde55fa-065b-439e-a620-11acf1e8a89d)
+
